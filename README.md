@@ -66,10 +66,6 @@
 
 <h3 align="left">Also have experience with</h3>
 
-Languages
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
@@ -79,6 +75,8 @@ Languages
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
+
+<h2 align="left">Languages</h2>
 
 ###
 
