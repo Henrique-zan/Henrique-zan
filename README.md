@@ -17,11 +17,15 @@
   <a href="mailto:henrique.grande@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  </a>
+  <a href="https://www.researchgate.net/profile/Henrique-Zan" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
 </p>
 
 ###
 
-<h2 align="left">Tech and tools</h2>
+<h2 align="left">Main tech and tools</h2>
 
 ###
 
