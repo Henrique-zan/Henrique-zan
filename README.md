@@ -4,12 +4,12 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  - Bachelor's degree in Computer Science from PUCPR<br>
-  - Master's student at PUCPR, with a research focus on Artificial Intelligence<br>
-  - Interested in Computer Vision applied to healthcare<br>
-  - Technical research support fellow at the Institute of Technology of Paraná (TECPAR)<br>
-  - Research interests: Computer Vision, Medical Imaging, Segmentation, Object Detection, and Generalization<br>
-  - Focused on developing and studying AI solutions for real-world problems
+  🎓 Bachelor's degree in Computer Science from PUCPR<br>
+  📖 Master's student at PUCPR, with a research focus on Artificial Intelligence<br>
+  🧠 Interested in Computer Vision applied to healthcare<br>
+  🔬 Technical research support fellow at the Institute of Technology of Paraná (TECPAR)<br>
+  💡 Research interests: Computer Vision, Medical Imaging, Segmentation, Object Detection, and Generalization<br>
+  🎯 Focused on developing and studying AI solutions for real-world problems
 </p>
 
 
